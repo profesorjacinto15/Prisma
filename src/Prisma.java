@@ -1,13 +1,14 @@
 import javax.swing.JOptionPane;
+
+/**
+ * Clase Prisma
+ * crea prismas de base triangular
+ * @param args
+ */
+
 public class Prisma {
 	int baseTriangulo;
 	int alturaPrisma;
-
-	/**
-	 * Clase Prisma
-	 * crea prismas de base triangular
-	 * @param args
-	 */
 	
 	public static void main(String[] args) {
 		
