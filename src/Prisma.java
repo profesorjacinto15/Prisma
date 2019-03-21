@@ -45,7 +45,12 @@ public class Prisma {
 		return areaprismas;
 	}
 	
-	// Constructor, cuando se crea un objeto Prisma
+	/** Constructor, cuando se crea un objeto Prisma
+	 * 
+	 * @param basetri
+	 * @param alturapri
+	 */
+	
 	public Prisma (int basetri, int alturapri) {
 		this.baseTriangulo = basetri;
 		this.alturaPrisma = alturapri;
