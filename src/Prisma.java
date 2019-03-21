@@ -79,6 +79,12 @@ public class Prisma {
 		this.alturaPrisma = alturapri;
 	}
 
+	/**
+	 * Metodo que lee un valor
+	 * @param mensaje a mostrar
+	 * @return el valor leido
+	 */
+	
 	public static int leerValor (String mensaje) {
         String bas;
 
