@@ -107,6 +107,12 @@ public class Prisma {
         JOptionPane.showMessageDialog(null,mensa+valor);
 
     }
+    
+    /**
+     * Metodo que comprueba si el valor introducido es un numero
+     * @param nume
+     * @return
+     */
 
     public static boolean esNumero (String nume) {
         for (int i=0; i<nume.length(); i++) {
