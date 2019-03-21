@@ -17,6 +17,11 @@ public class Prisma {
 		imprimeArea(areaprismas);
 	}
 
+	/**
+	 * Metodo que crea los Prismas
+	 * @return
+	 */
+	
 	public static double[] creaPrismas() {
 		String mensaje = "Introduce el numero de prismas a crear";
 		int numprismas = leerValor (mensaje);
