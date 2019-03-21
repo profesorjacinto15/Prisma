@@ -95,6 +95,12 @@ public class Prisma {
         int ba = Integer.parseInt(bas);
         return ba;
     }
+	
+	/**
+	 * Metodo que imprime un valor
+	 * @param mensa a mostrar
+	 * @param valor a mostrar.
+	 */
 
     public static void imprimirValor (String mensa, String valor) {
 
