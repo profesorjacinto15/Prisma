@@ -5,6 +5,7 @@ public class Prisma {
 
 	/**
 	 * Clase Prisma
+	 * crea prismas de base triangular
 	 * @param args
 	 */
 	
