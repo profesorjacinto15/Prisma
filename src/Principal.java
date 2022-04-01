@@ -17,6 +17,7 @@ public class Principal {
     
     /** 
      * @param areas[]
+     * Ordena las areas
      */
     public static void ordenaareas(float areas[]) {
         float aux = 0f;
